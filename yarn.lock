@@ -877,23 +877,23 @@
     "@chakra-ui/layout" "1.4.5"
     "@chakra-ui/system" "1.6.5"
 
-"@lego/klik-ui-avatar-group@0.5.2":
-  version "0.5.2"
-  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-avatar-group/0.5.2/8d81e7d1652171079242aacbc485f376828cba470d6179b7c664b705b49ebe69#e648605be55d2d40970abebb00759034df062870"
-  integrity sha512-MDDmpm457eVl5sp+wqurtNedftrP/E8Li5dvqltVD/XXX7OdFgEvlvlfra5mPcn/Tb4KgE1WjjD0CLzwmdM7cQ==
+"@lego/klik-ui-avatar-group@0.7.0":
+  version "0.7.0"
+  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-avatar-group/0.7.0/cfd558b31a3dcc97ecd456e8368289815ca1cfe6d2ecba6fa5d60e979ddfd2f7#5aece2dbd1cfbe4cc7c92ff8099701f05b7b3d05"
+  integrity sha512-Wz6FRu+rViPQI27AIHdpI1Q8ql5n6DGCN8NoZpKD8//p5BCSNqNxa7GpRT7bcMxz4NUL3pELgKLNOeHegN1+0g==
   dependencies:
     "@chakra-ui/avatar" "1.2.5"
     "@chakra-ui/system" "1.6.5"
-    "@lego/klik-ui-avatar" "0.5.2"
+    "@lego/klik-ui-avatar" "0.7.0"
 
-"@lego/klik-ui-avatar@0.5.2":
-  version "0.5.2"
-  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-avatar/0.5.2/ccc666023403da037fae4e5f9906c946f658beeffd6964fc4820380c7f9f65c3#aa08786005e96d0f4892ac56ccbb1431421d2f41"
-  integrity sha512-E7ZtavC9gKl+anZuLkrQ3ht4pSHMr4K9Ek+5r3hVlK5jyosJXqngHy9740YRgHXOqdB6xbCIa5kXJMvnhEPMlg==
+"@lego/klik-ui-avatar@0.7.0":
+  version "0.7.0"
+  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-avatar/0.7.0/033b289d9ae66bd43b7c21804b5be3fc59ab891e649817e385f53abf5dcd4bcd#cc460b5c964cafe9eaa1460d22735ab93913877b"
+  integrity sha512-G56kLQbUGd6rxPpdwVmLoJ3ZPcsPAJke69NkedGPcmTgh+5k/ZUm4TsXGeofjd3HnlmJgwEvYpAISxdyRyHFaA==
   dependencies:
     "@chakra-ui/avatar" "1.2.5"
     "@chakra-ui/system" "1.6.5"
-    "@lego/klik-ui-icons" "0.9.0"
+    "@lego/klik-ui-icons" "0.11.0"
 
 "@lego/klik-ui-box@0.7.0":
   version "0.7.0"
@@ -903,24 +903,24 @@
     "@chakra-ui/layout" "1.4.5"
     "@chakra-ui/system" "1.6.5"
 
-"@lego/klik-ui-breadcrumb@0.11.1":
-  version "0.11.1"
-  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-breadcrumb/0.11.1/5dd1a56ade3adb01fa4c677ec604bd74a28a025b8c214ad24585614ae46d3ce8#bdb7d21fac130ed4340378a30b783bea4b9bfffa"
-  integrity sha512-L0hFGVl+CuRsS6OxO0ER/k9UTeaIxfxcLqi7YcT8I8+edo4b9r6ZMdwxjWcXYTjb1mjNb/TgpCqy4uLT1tu9ew==
+"@lego/klik-ui-breadcrumb@0.13.0":
+  version "0.13.0"
+  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-breadcrumb/0.13.0/f71a17dbf89fd48f564f875ce471b250851113e830b1fbf2d4141a81a113b451#c2dd82e760c86af3ab874f9f7a84c97127f7cda8"
+  integrity sha512-/aC+EEpUe6rcJxYCwk07KzagxkVKmjG+hVzChv/6RjODStq7wJqGLZ83iVx1Yv6b5csS3mvEuButQ9d7b6G96A==
   dependencies:
     "@chakra-ui/breadcrumb" "1.2.5"
     "@chakra-ui/system" "1.6.5"
-    "@lego/klik-ui-icons" "0.9.0"
+    "@lego/klik-ui-icons" "0.11.0"
 
-"@lego/klik-ui-button-group@0.7.1":
-  version "0.7.1"
-  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-button-group/0.7.1/e7171d7b238dbb32dffdbd2e60706e53b7c869620bca491b28902ac910a850f4#d370240eebdc675244012477837f375f5f5288d3"
-  integrity sha512-DBu/XqH41HI7OpTjXbWSTnNX7oJ+Vp6Ny5peI5cnENzYKRmvOdURrhYJHTIucr1WvZgIDgSrEO90E+sry5Be+g==
+"@lego/klik-ui-button-group@0.9.0":
+  version "0.9.0"
+  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-button-group/0.9.0/29c30dae92ba53917da2b75c78a7ee892e962feba3e76b52be355a1648520cb8#875e790021abde61776368913a299441e784c065"
+  integrity sha512-2wCp7++q5/556j9uX9lE89KQTH4LIC8pmCZwp/WWoHvsCgh5vdgujwLDja4QKl2GmNiACG2PiuPb5zjspvtd4Q==
   dependencies:
     "@chakra-ui/button" "1.3.2"
     "@chakra-ui/react-utils" "1.1.2"
     "@chakra-ui/system" "1.6.5"
-    "@lego/klik-ui-icon-button" "0.9.0"
+    "@lego/klik-ui-icon-button" "0.11.0"
 
 "@lego/klik-ui-button@0.8.1":
   version "0.8.1"
@@ -946,34 +946,34 @@
     "@chakra-ui/button" "1.3.2"
     "@chakra-ui/system" "1.6.5"
 
-"@lego/klik-ui-checkbox-group@0.8.0":
-  version "0.8.0"
-  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-checkbox-group/0.8.0/49e3e137200b81ee1abf6ffd0fff928987bdb557c35b99a5c721b197c5cdde2f#730b2aea8ca5c2b43f80372f256e54ec8e3361a7"
-  integrity sha512-nvQD0mwCh8KAL2v9ThO2Af5gSwxQgHEw/5LjP2Li/CHJoAzLTF+us3ptbg80alBvvri3sxYZbEB7eUL8NMBEuw==
+"@lego/klik-ui-checkbox-group@0.10.0":
+  version "0.10.0"
+  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-checkbox-group/0.10.0/24a537251ec3a349d2f057b61fb8d32fca979fe8db58daf498a5cf9d8a107e18#9167b21dca3604e3678d4165db5e7b63789c3866"
+  integrity sha512-ftu5r143oJ3isDTIwCeoRjsmsdGLE/cKBMuxw6KLyTh/Urnd1MnzuZvQdTVFOg2rf7S+K5hYuv8jFFHAEIPTOg==
   dependencies:
     "@chakra-ui/checkbox" "1.5.2"
     "@chakra-ui/system" "1.6.5"
-    "@lego/klik-ui-icons" "0.9.0"
+    "@lego/klik-ui-icons" "0.11.0"
 
-"@lego/klik-ui-checkbox@0.8.0":
-  version "0.8.0"
-  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-checkbox/0.8.0/9079821612b473dbb9e783650321b85210057fc6df65593ec8c91be381556cfd#40c822d89668734858f8b1969554f4f3c91f96e7"
-  integrity sha512-+LqZGEcVUGLWHWvuc2ScvSHTdbItn4/b2lzcwShQyA85u4rBka9FUpuLeYrbfvTY0ECbHCksw3JNsBpHZ1hNHA==
+"@lego/klik-ui-checkbox@0.10.0":
+  version "0.10.0"
+  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-checkbox/0.10.0/1d5b2fa02ce51ccb732ab2cac35aeb7c0b0d5aa0cb040927d55089c18fc5177f#db08840d54bf2bf9e4832d43012ae8049c5050d5"
+  integrity sha512-S9AcaJMuKHo7fa89V3Jomfm3qA3dygvXwGpGj4x+PxKstSZ5ifOZKQZ3YNw5JZqiCG8tDsHuhS1fF0JB5k0ArQ==
   dependencies:
     "@chakra-ui/checkbox" "1.5.2"
     "@chakra-ui/system" "1.6.5"
-    "@lego/klik-ui-icons" "0.9.0"
+    "@lego/klik-ui-icons" "0.11.0"
 
-"@lego/klik-ui-close-button@0.13.1":
-  version "0.13.1"
-  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-close-button/0.13.1/badd1876c1e5c1e7fe1ccd60ecd2f927f9638bd21ebfab1f8ea78cc5ed263b12#0c1cb1e4605928b5eff68bc6360ae8a54352c2d5"
-  integrity sha512-5dgoXJhWNWkf5Y5ecDx5tEoRqXZOKpaCrqWppoi7O120ONuRLbv8I/IXjBwairM/0mwERaSuiCM0E+CXpzvyCA==
+"@lego/klik-ui-close-button@0.15.0":
+  version "0.15.0"
+  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-close-button/0.15.0/72fcabf7b93757b7d2da0acfe098ffd43aefe19b499dbeaebbe8fd8ffd97d19c#166a39e55b98bb4056431a531cfbd4f16288aab8"
+  integrity sha512-uXr1Yd62gj3ggJB76KjKZ4JklI0NgAnTOHBpDJLBzu1fXn/EHrSBzQfEBqppGdWyi0lYo3b29x0OecDzAcE9GA==
   dependencies:
     "@chakra-ui/icon" "1.1.9"
     "@chakra-ui/layout" "1.4.5"
     "@chakra-ui/system" "1.6.5"
-    "@lego/klik-ui-icon-button" "0.9.0"
-    "@lego/klik-ui-icons" "0.9.0"
+    "@lego/klik-ui-icon-button" "0.11.0"
+    "@lego/klik-ui-icons" "0.11.0"
 
 "@lego/klik-ui-container@0.7.0":
   version "0.7.0"
@@ -991,15 +991,15 @@
     "@chakra-ui/layout" "1.4.5"
     "@chakra-ui/system" "1.6.5"
 
-"@lego/klik-ui-drawer@0.13.1":
-  version "0.13.1"
-  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-drawer/0.13.1/7e6234bdca02959a3d8919bb2a618d168f78671e49a659e563e9f33a131c6f40#083a575f4d86d3ad271eb6905e26e354cd45d215"
-  integrity sha512-NCrhhe3Fl3ilA5jox7TeFmD8iGHd41aiigXlu1Y+eTonTYjhTCuXlhC/2JcOmkbkVUksqOiqByBQeAYm1Ongiw==
+"@lego/klik-ui-drawer@0.15.0":
+  version "0.15.0"
+  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-drawer/0.15.0/e57bf9342038342738f326e67bd1c88c9b9d7139ae8a21bf2c555a3c1e22a7cb#73b27fccfacb95aa8799c6f3506359bcf4f9bbe6"
+  integrity sha512-rqOcYqj6n9uTsNTwVb1f2t20tealyeDJj+Lc62j/zdvqwEzC4T9RqkYrH5NyPo4iUGBnOJs6JWhbRdbrrdZ75g==
   dependencies:
     "@chakra-ui/modal" "1.8.5"
     "@chakra-ui/system" "1.6.5"
     "@chakra-ui/utils" "1.8.0"
-    "@lego/klik-ui-close-button" "0.13.1"
+    "@lego/klik-ui-close-button" "0.15.0"
 
 "@lego/klik-ui-file-uploader@0.1.0":
   version "0.1.0"
@@ -1032,6 +1032,15 @@
     "@chakra-ui/layout" "1.4.5"
     "@chakra-ui/system" "1.6.5"
 
+"@lego/klik-ui-icon-button@0.11.0":
+  version "0.11.0"
+  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-icon-button/0.11.0/e84f345dc442c8b9fb4913f0e0d947ef2b25db415f21a2951caf85551ad74c7e#5930d526cbad64a4541216d200eddf03b7e52089"
+  integrity sha512-/sf0g9V425hgJR09VqqRyanzmUKSDsOZebnMsRFQtZVqFoFjndRDclkqTk2+hTcXpUgFChem/LNp8A9kYkzdUg==
+  dependencies:
+    "@chakra-ui/button" "1.3.2"
+    "@chakra-ui/system" "1.6.5"
+    "@chakra-ui/utils" "1.8.0"
+
 "@lego/klik-ui-icon-button@0.8.0":
   version "0.8.0"
   resolved "https://npm.pkg.github.com/download/@lego/klik-ui-icon-button/0.8.0/4d3c54dd3807b9358c8ad2d762f30ed6d334522969dd92e8efbb5a8fedf84896#949552f1b7e5a6859c5e9bad7cf573fe8ffb363c"
@@ -1041,14 +1050,13 @@
     "@chakra-ui/system" "1.6.0"
     "@chakra-ui/utils" "1.5.0"
 
-"@lego/klik-ui-icon-button@0.9.0":
-  version "0.9.0"
-  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-icon-button/0.9.0/0160f38fc68068011dfb738fe3622976fc32dc6037c8645384d8c83db578fe15#9cf8eb1cc9b5ee8614f620dd687f7e6c268e8e31"
-  integrity sha512-2P/FMJA/P7gpppL2Vbrz1S5ATjVFc8Eik6VqYfUr+4n34kyLBj4yrItzsm7sMoiqsHg+LYv/OcM8I+xdd8N7CA==
+"@lego/klik-ui-icon@0.10.0":
+  version "0.10.0"
+  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-icon/0.10.0/15f0089b6cdb5a329583cf9dbe1a5356d86b4b13f276df2e96b4d72492f23589#15d215997a84227cad9442faa2866dd432c24889"
+  integrity sha512-hmWXWXqCGYAIgknzW83Me9tw3y3dLP0pWY5TVCTOLet/O4dieAF4pVfGO5mRVDBPYfh5TrnRBcENV6cIPIq83g==
   dependencies:
-    "@chakra-ui/button" "1.3.2"
+    "@chakra-ui/icon" "1.1.9"
     "@chakra-ui/system" "1.6.5"
-    "@chakra-ui/utils" "1.8.0"
 
 "@lego/klik-ui-icon@0.6.0":
   version "0.6.0"
@@ -1058,13 +1066,14 @@
     "@chakra-ui/icon" "1.1.4"
     "@chakra-ui/system" "1.6.0"
 
-"@lego/klik-ui-icon@0.8.0":
-  version "0.8.0"
-  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-icon/0.8.0/fe834d79b7e0b0cbcf84843589d2f28a742a8243d9b057f6431b5819face9c55#2736613d02878a02c79a6b69fa39223bb1853c24"
-  integrity sha512-5G75xbK99JkEcvCBIRybMVZvD4GHw+fS+3TbCQxyY2teEOcFxBYuaiQd7VnJgjMnL2oPKLXxfKXfgYx7s1LRZw==
+"@lego/klik-ui-icons@0.11.0":
+  version "0.11.0"
+  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-icons/0.11.0/29cb773d8c16a5c66d35676861babc1f3ea03149f2db16b5126938285c5c2f36#6611eee6dc68c61e81972e934701b4d1e0936709"
+  integrity sha512-K2R4KSo3EUQb5jxJsHJdIuCUVZNUHG0zDJ2/lSHJ6K/sNVz/uGaVwyPDA6fM4jp9qt8NYscuDTxYxoxTS2CLTw==
   dependencies:
-    "@chakra-ui/icon" "1.1.9"
     "@chakra-ui/system" "1.6.5"
+    "@lego/klik-ui-icon" "0.10.0"
+    "@types/react" "^17.0.5"
 
 "@lego/klik-ui-icons@0.7.1":
   version "0.7.1"
@@ -1075,15 +1084,6 @@
     "@lego/klik-ui-icon" "0.6.0"
     "@types/react" "^17.0.3"
 
-"@lego/klik-ui-icons@0.9.0":
-  version "0.9.0"
-  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-icons/0.9.0/c4a0bfa0930a450c75813f0c3704affc91ab283e28bed0c5f43d525cca1bd568#9c81eec6f45983c8a0a2d33920293f7054ce4500"
-  integrity sha512-2wpJ1ai6fv0qbywzrn8BZLpKAPsDXVTf4WRYoCUZ1rhKCScb+ufrhF0Exh5zhJITzmawcbtkKYiNS7XKRFkjnA==
-  dependencies:
-    "@chakra-ui/system" "1.6.5"
-    "@lego/klik-ui-icon" "0.8.0"
-    "@types/react" "^17.0.5"
-
 "@lego/klik-ui-image@0.4.1":
   version "0.4.1"
   resolved "https://npm.pkg.github.com/download/@lego/klik-ui-image/0.4.1/ac0e72abc8bebf33ef3033567ef247a1ee2b8b3ba5a3a158219ad116dde9752e#eb8ead1f7bbbd4a879743ad3912e50bab26aa3b8"
@@ -1092,15 +1092,15 @@
     "@chakra-ui/image" "1.0.15"
     "@chakra-ui/system" "1.6.5"
 
-"@lego/klik-ui-inline-notification@0.9.1":
-  version "0.9.1"
-  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-inline-notification/0.9.1/4a7c13dba285243dc31b19d8f23e31ab731ef621c297f804b3bd9e91e63ea24f#b942c7ff9c5caa3ed02fa790150ec8f081cdb804"
-  integrity sha512-N/xnW1Db+jRNssiYktChbnWPXkd3DPpJ97mhPRF5sErjqKtnB0PKdhQlt3hDbWlXuG0rJavLXhphhufy02RbpA==
+"@lego/klik-ui-inline-notification@0.11.0":
+  version "0.11.0"
+  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-inline-notification/0.11.0/52dc21cafee3aa726f75ceb9fb3c0d1b0a81c729bd52300025629724545b2fdf#477277cf1c5148e5dc92f7d8700a4634a4cb8b1b"
+  integrity sha512-6JDHQNTmdTQ7rWdnpwjdvagQZl19AGuUfM4R6YVsZRlscy4wO+2y7RasWGbWLlzficIg3/FvppoIMA28nha6/Q==
   dependencies:
     "@chakra-ui/react-utils" "1.1.2"
     "@chakra-ui/utils" "1.8.0"
-    "@lego/klik-ui-icon" "0.8.0"
-    "@lego/klik-ui-icons" "0.9.0"
+    "@lego/klik-ui-icon" "0.10.0"
+    "@lego/klik-ui-icons" "0.11.0"
 
 "@lego/klik-ui-input@0.3.0":
   version "0.3.0"
@@ -1127,36 +1127,50 @@
     "@chakra-ui/layout" "1.4.5"
     "@chakra-ui/system" "1.6.5"
 
-"@lego/klik-ui-list@0.8.1":
-  version "0.8.1"
-  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-list/0.8.1/94adef40e1cd0e72cd6455736c79f8b14535c94a548f0117b9d3cedc2cf94f2a#2a996508bc24b290099712ce1e3ea6f1148b334e"
-  integrity sha512-q7NKaAeT7IMrR7Cc+4j0oXLnz/wjt3B2jwQgnRG9wxwvpc+Sa5P78gsQKUAgwspbfU8qdwoYqlRtr6EU3s2Bvg==
+"@lego/klik-ui-list@0.10.0":
+  version "0.10.0"
+  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-list/0.10.0/7a0b4781633a9e098fa43837197f4e7c3196ac98661c4a97332d2d36eb9e2923#3f30c0867bab6e84fdeacd1f44de548f7080db14"
+  integrity sha512-RSfEePpCwKWzW9wmKFcubNxTdH9AuXlOqzbdn9YeASTkOVtlQdBR3wOvKf38ju+yMzMjWdot8aphSZqfBHWOig==
   dependencies:
     "@chakra-ui/layout" "1.4.5"
     "@chakra-ui/system" "1.6.5"
-    "@lego/klik-ui-icon" "0.8.0"
+    "@lego/klik-ui-icon" "0.10.0"
 
-"@lego/klik-ui-menu@0.9.0":
-  version "0.9.0"
-  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-menu/0.9.0/e04c2d00dcbd6b0f6db607970c69f101072e7044ce26edaaca2ff0655b45419c#fbe4fca00abd1fe1e8490fdd71452edbed3df278"
-  integrity sha512-HebJmQ0PPp/xBadrzEeCWxdkj2U8Jg6HRIzrKq89vuJvkS7efBpVsVEIANqfR1SmqU5KQ5eXTfOp1dyDEJ1O9A==
+"@lego/klik-ui-menu@0.11.0":
+  version "0.11.0"
+  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-menu/0.11.0/aaffac947055c0b876e6d3171f21631d5dea26d038be4179fa5a64f3c679f517#05fad8adc582f7ec7e6269c3a98f24848ac2d3d4"
+  integrity sha512-Atp/cIySIFZBSQppncNxqXV9YXdq2Hbs6/BYqDIszgJMV1xbAdRaduzVqVjPsgPuK32NYnD5YK6dW7O2SWtRKw==
   dependencies:
     "@chakra-ui/menu" "1.6.1"
     "@chakra-ui/react-utils" "1.1.2"
     "@chakra-ui/system" "1.6.5"
     "@chakra-ui/utils" "1.8.0"
-    "@lego/klik-ui-icons" "0.9.0"
+    "@lego/klik-ui-icons" "0.11.0"
 
-"@lego/klik-ui-modal@0.14.1":
-  version "0.14.1"
-  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-modal/0.14.1/5f09223ede7dfde0a9c49a141e811bd57f656b00677cb1023457d0c0bad16df7#2a5d58e12237a2dd0d1c0e01cb8c8f3026f2e696"
-  integrity sha512-UEk8MI48hVZE3NqN0pKFQoRH1Ddclh41VjxoW1UhIcPEotnra5BgTh+escav9sXGfdhRpaPc5AxXX91KFLEEMA==
+"@lego/klik-ui-modal@0.16.0":
+  version "0.16.0"
+  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-modal/0.16.0/615ddc88e714725bd37cae1df5b36b6f7d5eb3c3e05569694a6cc49b9ab65a38#c806398ee27ddb3ffc4468694bdcf6ebed9467d7"
+  integrity sha512-nLWJHhfjgSWpvF6aU1PHeAhH5+j6evt6rzPIEhOSWYM6CDI4r+Yl+sNrNY/dripYfI7yBF0L1NvWWSkwH93SgA==
   dependencies:
     "@chakra-ui/modal" "1.8.5"
     "@chakra-ui/react-utils" "1.1.2"
     "@chakra-ui/system" "1.6.5"
     "@chakra-ui/utils" "1.8.0"
-    "@lego/klik-ui-close-button" "0.13.1"
+    "@lego/klik-ui-close-button" "0.15.0"
+
+"@lego/klik-ui-navbar@0.2.0":
+  version "0.2.0"
+  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-navbar/0.2.0/4b672ff1a8881d8865fc7d393419bb4b4cf2e62a107f60124ef2e7dd62df0ff9#2c47204e34a09c8320965c4197a90b76b5ed88ce"
+  integrity sha512-AOxuVyyXyfZQiGHNaoQlurisA6Z4spnkoYhTbnTh55p/aiPc+IYtWRe4Mnpef3QXts2YksnTfTvSBNMOBfkZ8Q==
+  dependencies:
+    "@chakra-ui/hooks" "1.5.2"
+    "@chakra-ui/popper" "2.1.2"
+    "@chakra-ui/react-utils" "1.1.2"
+    "@chakra-ui/system" "1.6.5"
+    "@chakra-ui/utils" "1.8.0"
+    "@lego/klik-ui-icon" "0.10.0"
+    "@lego/klik-ui-icon-button" "0.11.0"
+    "@lego/klik-ui-icons" "0.11.0"
 
 "@lego/klik-ui-number-input@0.3.0":
   version "0.3.0"
@@ -1183,19 +1197,19 @@
     "@lego/klik-ui-icon-button" "0.8.0"
     "@lego/klik-ui-icons" "0.7.1"
 
-"@lego/klik-ui-popover@0.13.1":
-  version "0.13.1"
-  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-popover/0.13.1/805cdfa62aec43808d43faec427946647cad4a7c6ffa2ed20b300f590c4f7d00#f1689483b7986d1a91686301b00f3aa4d94abde7"
-  integrity sha512-XD2+PjGOH3lbx7gScg4X6ekaUwfoMMnZrWniZfIiXDjkR5myWn/oJUkU9Ps9lU7ebjdoK/VZ1l7c7uGS2JVkAw==
+"@lego/klik-ui-popover@0.15.0":
+  version "0.15.0"
+  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-popover/0.15.0/ba7f5d7188aed25c2e2e32b3fd8dac05e581b11acdcd0fd1ea31fcdfd8bb86c2#7ca4d0887fcd3fa208c6f5227e08aebb0a5a69cc"
+  integrity sha512-8HAn5t/UMiMvKQG4EpE7akkpEKHdvSEiQK9BLbhUh5JhTO84ff2JVpEed042pXiTHOxsoP8xyl878l52eQeNtQ==
   dependencies:
     "@chakra-ui/popover" "1.7.0"
     "@chakra-ui/system" "1.6.5"
-    "@lego/klik-ui-close-button" "0.13.1"
+    "@lego/klik-ui-close-button" "0.15.0"
 
-"@lego/klik-ui-progress@0.8.0":
-  version "0.8.0"
-  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-progress/0.8.0/ac9059803e25dd0e3ba3f4df4c60ed065f16a12be3ada899e75fcd828f30745a#3548f58a5917e0cd3e81d32f867ae368a0f05f7a"
-  integrity sha512-Nk6UZTX1WSD6Xry3h7jQt3p9+3bxRrNc2fSpqCctSuQ6nQi2bTmC2VsDo6htradFkPeqcI2PbJ/DIGY8R5hWsg==
+"@lego/klik-ui-progress@0.10.0":
+  version "0.10.0"
+  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-progress/0.10.0/0fd28a5dc0db3ea7b50a2e4a90e703376f1957a51664d10db417406bac0cb73a#5f3b457c85626e7f9c8b505892c9a10e648bd5e7"
+  integrity sha512-c4NW8gcVG6ZWDJcTnInPmyZucoJ0TNig7FUPR7HcB9nJDIsI1FSVdAb+esiwzSDT07BIestZMNxNuAOTqAtalQ==
   dependencies:
     "@chakra-ui/progress" "1.1.9"
     "@chakra-ui/system" "1.6.5"
@@ -1216,14 +1230,14 @@
     "@chakra-ui/radio" "1.3.5"
     "@chakra-ui/system" "1.6.5"
 
-"@lego/klik-ui-select@0.3.0":
-  version "0.3.0"
-  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-select/0.3.0/00fb761b968fbea0bcc624285d54c78744409653c7578c23f0a9e78d336bdb0a#1571001f6fc603776cbcb8c49bbcc6084652d7f6"
-  integrity sha512-fQytuO7hU7ivuJvr9RqUJ4V0TvQ70qHxd9ML6+Q9Zfs9KtFY/Qxk+yE0uYsEm3kaa7R8XJ/MiF5Hr33HHk/Yjw==
+"@lego/klik-ui-select@0.5.0":
+  version "0.5.0"
+  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-select/0.5.0/e3cd21427811b609dc649241acc409411ef7bc5e4ef622542acddff69203a8c0#4dd7113487f840dd4d28c454819d4b967cbf8b91"
+  integrity sha512-2H2KFqjwAvWyHF0VpfDsCalK1oSQUfXZplqijp8HWdAXiItgG5qfv+UivXsV3XUdJYmFXt6ppyaDLfci6giRkw==
   dependencies:
     "@chakra-ui/select" "1.1.9"
     "@chakra-ui/system" "1.6.5"
-    "@lego/klik-ui-icons" "0.9.0"
+    "@lego/klik-ui-icons" "0.11.0"
 
 "@lego/klik-ui-skeleton@0.7.0":
   version "0.7.0"
@@ -1250,16 +1264,16 @@
     "@chakra-ui/system" "1.6.5"
     "@lego/klik-ui-divider" "0.7.0"
 
-"@lego/klik-ui-stepper@0.4.0":
-  version "0.4.0"
-  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-stepper/0.4.0/f2f0d07922e0e438d7b48b8d55a5857ac0ea9c785e5bb8ae7ed3c0ce2026e804#21aa0e9c8759c75f32f4905dc6009a0ecbaf4c64"
-  integrity sha512-NWKIycyjWIE4aU/1gBzIk+N3K5TbwUVmo3hgyGbFK7vnBGUAZh0tnzoIJr89j2B0wVh4bzJMugma4vjy7/CknQ==
+"@lego/klik-ui-stepper@0.6.0":
+  version "0.6.0"
+  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-stepper/0.6.0/1ee54ba8062f4de80d18b1577302acba8f1ae160760d772fdb276fd50ae3fbbe#1002a6d1bc937b84b6cefcf64cb960d96473020f"
+  integrity sha512-MYlv6n4QgiJc5gUyyQdwGTMhf/fBTeX+wibW9IoCa6ijToNTCtQdcsdzVUXMJqUXcsuyxOF8gXWWuJxXnS098w==
   dependencies:
     "@chakra-ui/react-utils" "1.1.2"
     "@chakra-ui/system" "1.6.5"
     "@chakra-ui/transition" "1.3.0"
     "@chakra-ui/utils" "1.8.0"
-    "@lego/klik-ui-icons" "0.9.0"
+    "@lego/klik-ui-icons" "0.11.0"
 
 "@lego/klik-ui-switch@0.5.0":
   version "0.5.0"
@@ -1287,10 +1301,10 @@
     "@chakra-ui/tabs" "1.5.1"
     "@chakra-ui/utils" "1.8.0"
 
-"@lego/klik-ui-tag@0.7.0":
-  version "0.7.0"
-  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-tag/0.7.0/7aeeacc21f7507a90d066bacc9fde1524b81faa2b587e986d9216b209093c527#cabcc92f96c4cd8a45700b0f2c14970500d16f8d"
-  integrity sha512-j0Ag6N5e85ROWa2xoTtaw5h0zLfvj+9AOPPRGjuAG1IsZxTlN19FD15i/H9gcg3FpJ32GFkwpkpxnd4P8mPpug==
+"@lego/klik-ui-tag@0.9.0":
+  version "0.9.0"
+  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-tag/0.9.0/87ab34fbdeb6a8cc9f85c718130456c5c79fc59df5e4cd115ccb56b4842d1c84#984cf75663017a27f413bea063c8232bdb2fa36e"
+  integrity sha512-YG/N4cucnqldTkHJq3JELHzKJwnPJiUg3TkjH7R9197mdSfwNzdxuymSkHo1gBV9n4pYvLRZKQjAg0LdgWEWOQ==
   dependencies:
     "@chakra-ui/system" "1.6.5"
     "@chakra-ui/tag" "1.1.9"
@@ -1312,10 +1326,10 @@
     "@chakra-ui/system" "1.6.5"
     "@chakra-ui/textarea" "1.1.9"
 
-"@lego/klik-ui-theme@0.22.3":
-  version "0.22.3"
-  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-theme/0.22.3/b3bc4fe40b4790d95a62afc4f83d4524f322e426a8f5c3d6ee88ea41b1efa56b#2209be064abc6852213e71ac4e5afaccd1954301"
-  integrity sha512-BGueIGzYFvm7bqDoVMQVlsV9Mr2pzTYmAjra/D9QDCX7RteOIj0Vb3zCyjEoduW6SBq6KywhdKDn8Lz53rdVAA==
+"@lego/klik-ui-theme@0.24.0":
+  version "0.24.0"
+  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-theme/0.24.0/340b9b1e234a5256c02af0c1a163bfc8897f30a351653868b4838b4148d10ae4#352db3ef1e71c6b0f51f17357ac2761f9b777491"
+  integrity sha512-g/bzlQIOseZLoum64QsocL75LX8fBnrTTBPyPSOdkRvVjDxGb6q+JiqptmjLWpoYaUAGx2b8rLD9+hawKUVL4Q==
   dependencies:
     "@chakra-ui/cli" "1.3.1"
     "@chakra-ui/styled-system" "1.10.5"
@@ -1333,14 +1347,14 @@
     "@chakra-ui/system" "1.6.5"
     "@chakra-ui/toast" "1.2.6"
 
-"@lego/klik-ui-toggle-button-group@0.7.1":
-  version "0.7.1"
-  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-toggle-button-group/0.7.1/90e0624c3160df14d2ead5df4670adcab5a7377c98d08a2a3caf63edc591c2c8#9cf442bb4d8b4016d20159c3f0a485f9061b665e"
-  integrity sha512-sYpKqYx6qKzua00bsEJO2ZhXhMN0oiVdEOGR//HeEt6MBak01YkvUIACMFi7KQiY3jR5Q0X4PQlXJnvgkD45fw==
+"@lego/klik-ui-toggle-button-group@0.9.0":
+  version "0.9.0"
+  resolved "https://npm.pkg.github.com/download/@lego/klik-ui-toggle-button-group/0.9.0/2499e3f3b073939dec607e775bc1e9440327c16e7a9ccc03f1b80221215f740b#f350bd1cd081047c7450c096410415dae102120a"
+  integrity sha512-MOmDvxNaD4Fggj/9czWhiGSE28kN3M6kHalJ22QTgtN8zsYhD6cZFfW3sjOT/y9K6ZSuUHlqz4mGC1qAB7d5fw==
   dependencies:
     "@chakra-ui/react-utils" "1.1.2"
     "@chakra-ui/system" "1.6.5"
-    "@lego/klik-ui-button-group" "0.7.1"
+    "@lego/klik-ui-button-group" "0.9.0"
 
 "@lego/klik-ui-tokens@0.5.0":
   version "0.5.0"
@@ -1362,10 +1376,10 @@
   dependencies:
     "@chakra-ui/system" "1.6.5"
 
-"@lego/klik-ui@0.23.8":
-  version "0.23.8"
-  resolved "https://npm.pkg.github.com/download/@lego/klik-ui/0.23.8/b8c8521d0011aa422399dfcd5103930524e839751a775f3535853a56b56cd8cd#dd568dbec6cfb14f986ee861bc6d5382cddf0b46"
-  integrity sha512-7oWBAW1TsyAJP2YQcUXlGrioS9jyZ/66FXXrQ74aYM6Oorzbb88cU1gW8XuPXSiAxtvhfiQoEQVxd3YQzE24ZQ==
+"@lego/klik-ui@0.25.0":
+  version "0.25.0"
+  resolved "https://npm.pkg.github.com/download/@lego/klik-ui/0.25.0/db7d3315a37affd44272ab4079d34af90165f96dd15df21311900d6a648db106#f2c39ee2a9a82cef282353727cafb4a2218b4d24"
+  integrity sha512-cDiqR5Ot1IOvA6wdaHmGPy1fyOq8O/EU0BQZPaLzUqnxtCA+aTgLOl6+QiX/2KBWQAr1nr+BAe5M1omZymvCIw==
   dependencies:
     "@chakra-ui/css-reset" "1.0.0"
     "@chakra-ui/hooks" "1.5.2"
@@ -1376,53 +1390,54 @@
     "@chakra-ui/utils" "1.8.0"
     "@lego/klik-ui-accordion" "0.7.1"
     "@lego/klik-ui-aspect-ratio" "0.7.0"
-    "@lego/klik-ui-avatar" "0.5.2"
-    "@lego/klik-ui-avatar-group" "0.5.2"
+    "@lego/klik-ui-avatar" "0.7.0"
+    "@lego/klik-ui-avatar-group" "0.7.0"
     "@lego/klik-ui-box" "0.7.0"
-    "@lego/klik-ui-breadcrumb" "0.11.1"
+    "@lego/klik-ui-breadcrumb" "0.13.0"
     "@lego/klik-ui-button" "0.9.2"
-    "@lego/klik-ui-button-group" "0.7.1"
-    "@lego/klik-ui-checkbox" "0.8.0"
-    "@lego/klik-ui-checkbox-group" "0.8.0"
-    "@lego/klik-ui-close-button" "0.13.1"
+    "@lego/klik-ui-button-group" "0.9.0"
+    "@lego/klik-ui-checkbox" "0.10.0"
+    "@lego/klik-ui-checkbox-group" "0.10.0"
+    "@lego/klik-ui-close-button" "0.15.0"
     "@lego/klik-ui-container" "0.7.0"
     "@lego/klik-ui-divider" "0.7.0"
-    "@lego/klik-ui-drawer" "0.13.1"
+    "@lego/klik-ui-drawer" "0.15.0"
     "@lego/klik-ui-file-uploader" "0.1.0"
     "@lego/klik-ui-flex" "0.7.0"
     "@lego/klik-ui-form-control" "0.9.0"
     "@lego/klik-ui-grid" "0.7.0"
-    "@lego/klik-ui-icon" "0.8.0"
-    "@lego/klik-ui-icon-button" "0.9.0"
-    "@lego/klik-ui-icons" "0.9.0"
+    "@lego/klik-ui-icon" "0.10.0"
+    "@lego/klik-ui-icon-button" "0.11.0"
+    "@lego/klik-ui-icons" "0.11.0"
     "@lego/klik-ui-image" "0.4.1"
-    "@lego/klik-ui-inline-notification" "0.9.1"
+    "@lego/klik-ui-inline-notification" "0.11.0"
     "@lego/klik-ui-input" "0.3.0"
     "@lego/klik-ui-link" "0.9.0"
     "@lego/klik-ui-link-box" "0.5.0"
-    "@lego/klik-ui-list" "0.8.1"
-    "@lego/klik-ui-menu" "0.9.0"
-    "@lego/klik-ui-modal" "0.14.1"
+    "@lego/klik-ui-list" "0.10.0"
+    "@lego/klik-ui-menu" "0.11.0"
+    "@lego/klik-ui-modal" "0.16.0"
+    "@lego/klik-ui-navbar" "0.2.0"
     "@lego/klik-ui-number-input" "0.3.0"
     "@lego/klik-ui-pagination" "0.1.1"
-    "@lego/klik-ui-popover" "0.13.1"
-    "@lego/klik-ui-progress" "0.8.0"
+    "@lego/klik-ui-popover" "0.15.0"
+    "@lego/klik-ui-progress" "0.10.0"
     "@lego/klik-ui-radio" "0.5.0"
     "@lego/klik-ui-radio-group" "0.6.0"
-    "@lego/klik-ui-select" "0.3.0"
+    "@lego/klik-ui-select" "0.5.0"
     "@lego/klik-ui-skeleton" "0.7.0"
     "@lego/klik-ui-slider" "0.3.0"
     "@lego/klik-ui-stack" "0.8.0"
-    "@lego/klik-ui-stepper" "0.4.0"
+    "@lego/klik-ui-stepper" "0.6.0"
     "@lego/klik-ui-switch" "0.5.0"
     "@lego/klik-ui-table" "0.9.0"
     "@lego/klik-ui-tabs" "0.8.0"
-    "@lego/klik-ui-tag" "0.7.0"
+    "@lego/klik-ui-tag" "0.9.0"
     "@lego/klik-ui-text" "0.7.0"
     "@lego/klik-ui-textarea" "0.1.0"
-    "@lego/klik-ui-theme" "0.22.3"
+    "@lego/klik-ui-theme" "0.24.0"
     "@lego/klik-ui-toast" "0.7.1"
-    "@lego/klik-ui-toggle-button-group" "0.7.1"
+    "@lego/klik-ui-toggle-button-group" "0.9.0"
     "@lego/klik-ui-tooltip" "0.7.0"
     "@lego/klik-ui-well" "0.2.1"
 
@@ -1534,9 +1549,9 @@
   integrity sha512-1z8k4wzFnNjVK/tlxvrWuK5WMt6mydWWP7+zvH5eFep4oj+UkrfiJTRtjCeBXNpwaA/FYqqtb4/QS4ianFpIRA==
 
 "@types/node@*":
-  version "15.12.2"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-15.12.2.tgz#1f2b42c4be7156ff4a6f914b2fb03d05fa84e38d"
-  integrity sha512-zjQ69G564OCIWIOHSXyQEEDpdpGl+G348RAKY0XXy9Z5kU9Vzv1GMNnkar/ZJ8dzXB3COzD9Mo9NtRZ4xfgUww==
+  version "15.12.4"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-15.12.4.tgz#e1cf817d70a1e118e81922c4ff6683ce9d422e26"
+  integrity sha512-zrNj1+yqYF4WskCMOHwN+w9iuD12+dGm0rQ35HLl9/Ouuq52cEtd0CH9qMgrdNmi5ejC1/V7vKEXYubB+65DkA==
 
 "@types/node@^11.10.5":
   version "11.15.54"
@@ -2038,9 +2053,9 @@ contains-path@^0.1.0:
   integrity sha1-/ozxhP9mcLa67wGp1IYaXL7EEgo=
 
 convert-source-map@^1.5.0:
-  version "1.7.0"
-  resolved "https://registry.yarnpkg.com/convert-source-map/-/convert-source-map-1.7.0.tgz#17a2cb882d7f77d3490585e2ce6c524424a3a442"
-  integrity sha512-4FJkXzKXEDB1snCFZlLP4gpC3JILicCpGbzG9f9G7tGqGCzETQ2hWPrcinA9oU4wtf2biUaEH5065UnMeR33oA==
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/convert-source-map/-/convert-source-map-1.8.0.tgz#f3373c32d21b4d780dd8004514684fb791ca4369"
+  integrity sha512-+OQdjP49zViI/6i7nIJpA8rAl4sV/JdPfU9nZs3VqOwGIgizICvuN2ru6fMd+4llL0tar18UYJXfZ/TWtmhUjA==
   dependencies:
     safe-buffer "~5.1.1"
 
